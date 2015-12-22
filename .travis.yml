@@ -1,2 +1,2 @@
 language: cpp
-script: g++ nis.cpp
+script: g++ cod.cpp
